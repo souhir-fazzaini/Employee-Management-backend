@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "oAjFwLtUA4joCmzUol0pVKkw2WqmHAIDrsLHUz1yWOE=",
+  "Hash": "ElUubokOiGbAZQWEHEWSjFGV5xbLv0gPnUFvp9Ig1/4=",
   "Source": "ReactApp2.Server",
   "BasePath": "_content/ReactApp2.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\ReactApp2\\reactapp2.client\\reactapp2.client.esproj",
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Employee-Management\\reactapp2.client\\reactapp2.client.esproj",
       "Version": 2,
       "Source": "reactapp2.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "ReactApp2.Server\\wwwroot",
       "Source": "ReactApp2.Server",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\ReactApp2\\ReactApp2.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Employee-Management\\ReactApp2.Server\\wwwroot\\",
       "BasePath": "_content/ReactApp2.Server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\ReactApp2\\ReactApp2.Server\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Employee-Management\\ReactApp2.Server\\wwwroot\\index.html",
       "SourceId": "ReactApp2.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\ReactApp2\\ReactApp2.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Employee-Management\\ReactApp2.Server\\wwwroot\\",
       "BasePath": "_content/ReactApp2.Server",
       "RelativePath": "index.html",
       "AssetKind": "All",

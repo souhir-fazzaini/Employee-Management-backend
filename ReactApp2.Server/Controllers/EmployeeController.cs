@@ -82,7 +82,7 @@ namespace ReactApp2.Server.Controllers
                 {
                     sqlCommand.Parameters.AddWithValue("@EmployeeName", employee.EmployeeName);
                     sqlCommand.Parameters.AddWithValue("@Department", employee.department); // Corrected case
-                    sqlCommand.Parameters.AddWithValue("@DateOfJoining", employee.DateOfJoining<v);
+                    sqlCommand.Parameters.AddWithValue("@DateOfJoining", employee.DateOfJoining);
                     sqlCommand.Parameters.AddWithValue("@PhotoFileName", employee.PhotoFileName);
 
                     using (SqlDataReader reader = sqlCommand.ExecuteReader())
