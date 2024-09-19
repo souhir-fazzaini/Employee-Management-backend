@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\ReactApp2\\ReactApp2.Server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReactApp2.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReactApp2.Server.props",
+      "PackagePath": "build\\ReactApp2.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReactApp2.Server.props",
+      "PackagePath": "buildMultiTargeting\\ReactApp2.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReactApp2.Server.props",
+      "PackagePath": "buildTransitive\\ReactApp2.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
